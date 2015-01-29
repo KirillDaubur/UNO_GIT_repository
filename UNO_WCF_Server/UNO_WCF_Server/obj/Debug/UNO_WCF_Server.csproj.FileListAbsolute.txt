@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\bin\UNO_WCF_Server.dll.config
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\bin\UNO_WCF_Server.dll
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\bin\UNO_WCF_Server.pdb
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\obj\Debug\UNO_WCF_Server.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\obj\Debug\UNO_WCF_Server.dll
+C:\Users\Дмитрий\Documents\GitHub\UNO_GIT_repository\UNO_WCF_Server\UNO_WCF_Server\obj\Debug\UNO_WCF_Server.pdb
